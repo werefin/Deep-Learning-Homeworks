@@ -1,5 +1,5 @@
 # Deep Learning Homeworks
-The repository contains homeworks from Deep Learning (UniPD).
+The repository contains homeworks from Deep Learning course (UniPD).
 
 ### Homework 1 - From Perceptron to DNN
 Implementation of the backpropagation algorithm for the perceptron and a two-layer network, with sigmoid and mean squared error.

@@ -38,7 +38,7 @@ Comparison between Single Value Decomposition and different types of Autoencoder
 
 Linear and non-Linear Autoencoders for sequences with the IMDB dataset.
 
-Notebook : [HW-05](https://github.com/SiMoM0/DeepLearning/blob/master/HW5/HW5.ipynb) | Assessment: 95/100
+Notebook : [HW-05](https://github.com/SiMoM0/DeepLearning/blob/master/HW5/HW5.ipynb) | Assessment: 90/100
 
 ### Homework 6 - Variational Autoencoders
 

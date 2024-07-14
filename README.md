@@ -1,4 +1,4 @@
-# Deep Learning Homeworks
+## Deep Learning homeworks
 The repository contains homeworks from Deep Learning course (UniPD).
 
 ### Homework 1 - From Perceptron to DNN
